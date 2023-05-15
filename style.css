@@ -42,3 +42,7 @@ video{
 .big_image{
     width:100%;
 }
+
+canvas{
+    background-color: red;
+}
