@@ -32,7 +32,7 @@ function modelLoaded() {
   }
 
 function draw() {
-	game()
+	game();
 }
 
 
